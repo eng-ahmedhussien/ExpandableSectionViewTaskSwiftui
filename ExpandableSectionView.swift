@@ -1,6 +1,5 @@
 //
 //  ExpandableSectionView.swift
-//  AlDwaaNewApp
 //
 //  Created by ahmed hussien on 31/08/2023.
 //
